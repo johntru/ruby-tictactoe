@@ -1,0 +1,1 @@
+This is a Ruby project for the game Tic Tac Toe within the terminal.
